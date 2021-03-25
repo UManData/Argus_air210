@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9bbLV+h2BAz1+XtX6HYEDPY8G1fodgQM9n67V+h2BAz2wWtX6HYEDPcEC1fodgQM90arV+h2BAz3iVtX6HYEDPfL+1fodgQM+A6bV+h2BAz4UUtX6HYEDPiT46KGbQQM+NabV+h2BAz5GTOihm0EDPlb21fodgQM+Z6DqohqJAz54SOihm0EDPojw7KJaNQM+mZzt86cxAz6qROyiWjUDPrrs7UsAsQM+y5ju9s1dAz7cQOvzZ3kDPuzo6qIaiQM+/ZTuonodAz8OPO1LALEDPx7k7qJ6HQM/L5DtSwCxAz9AOOqiGokDP1Dg6/NneQM/YYzt86cxAz9yNO3zpzEDP4Lc7fOnMQM/k4juTibZAz+kMOyiWjUDP7Tc6qIaiQM/xYTvSyChAz/WLO6ieh0DP+bY7KJaNQM/94Dr82d5A0AIKO3zpzEDQBjU6/NneQNAKXzuonodA0A6JOvzZ3kDQErQ6qIaiQNAW3jsolo1A0BsIOihm0EDQHzM6qIaiQNAjXbV+h2BA0CeHtX6HYEDQK7K1fodgQNAv3LV+h2BA0DQGtX6HYEDQODG1fodgQNA8W7V+h2BA0ECGtX6HYEDQRLC1fodgQNBI2rV+h2BA0E0FtX6HYEDQUS+1fodg",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.495210661322648,
+        "center_signal": 2.685135969727073,
+        "high_dac": 6.503597434869742,
+        "high_resolving_power": 537.7562388059746,
+        "high_signal": 0.5313916276285834,
+        "low_dac": 6.486823887775554,
+        "low_resolving_power": 1018.1934339623135,
+        "low_signal": 0.5102952596675371,
+        "points": "QM9bbL0GrYRAz1+XPg8S90DPY8G9+9O7QM9n673yHhpAz2wWvJy2/0DPcEC+IN30QM90ar4Oa2RAz3iVPeqs00DPfL8+I/SFQM+A6T6U/w5Az4UUPhALmEDPiT4+AfaDQM+NaT7I91dAz5GTPqJaQEDPlb0/P7GyQM+Z6D+VbbVAz54SP2jglkDPojw/7+AiQM+mZz/9QOVAz6qRQAIIRkDPrrtAEmyXQM+y5j/we8xAz7cQP+6ZPkDPuzpAAj7EQM+/ZUAr20pAz8OPP//eU0DPx7k//SHDQM/L5D/cPJ1Az9AOP/uckUDP1Dg/7qjPQM/YY0ATEBpAz9yNQAt1m0DP4LdAB6hyQM/k4j/3efpAz+kMP/k9bkDP7TdABfxGQM/xYUABFvZAz/WLP+72pEDP+bY//tWqQM/94D/7AONA0AIKQAhrE0DQBjVAAAaEQNAKXz/xhG1A0A6JP+luJkDQErQ/nDvyQNAW3j+wxlNA0BsIP4ll6UDQHzM+cafpQNAjXT4KtCVA0CeHvrPxQkDQK7K9TJd3QNAv3D4vH9BA0DQGvqcUhUDQODG6z/niQNA8W73UBJNA0ECGPlrUqEDQRLA9i4B7QNBI2r1j5WFA0E0FPkV2f0DQUS89ed6x",
+        "resolution": 344.05256050956325
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}

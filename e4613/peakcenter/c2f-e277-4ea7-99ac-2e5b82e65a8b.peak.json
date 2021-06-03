@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9SDbV+V2VAz1Y3tX5XZUDPWmK1fldlQM9ejLV+V2VAz2K2Oihm3EDPZuG1fldlQM9rCzooZtxAz281tX5XZUDPc2C1fldlQM93irV+V2VAz3u0tX5XZUDPf986qIaoQM+ECbV+V2VAz4gztX5XZUDPjF46KGbcQM+QiDqohqhAz5SyOihm3EDPmN06qIaoQM+dBzqohqhAz6EyOqiGqEDPpVw6/NnkQM+phjqohqhAz62xO1LAL0DPsds7KJaQQM+2BTtSwC9Az7owO1LAL0DPvlo7fOnPQM/ChDtSwC9Az8avOihm3EDPytk7UsAvQM/PAztSwC9Az9MuOvzZ5EDP11g6KGbcQM/bgjt86c9Az9+tO3zpz0DP49c7KJaQQM/oATuTibhAz+wsOvzZ5EDP8Fa1fldlQM/0gTtSwC9Az/irOvzZ5EDP/NU7UsAvQNABADqohqhA0AUqOihm3EDQCVQ6/NnkQNANfzooZtxA0BGptX5XZUDQFdO1fldlQNAZ/jooZtxA0B4otX5XZUDQIlK1fldlQNAmfbV+V2VA0CqntX5XZUDQLtG1fldlQNAy/LV+V2VA0DcmtX5XZUDQO1C1fldlQNA/e7V+V2VA0EOltX5XZUDQR8+1fldl",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.493886167929114,
+        "center_signal": 1.478403413623198,
+        "high_dac": 6.5020925807547645,
+        "high_resolving_power": 643.2766265469702,
+        "high_signal": 0.2351898356821398,
+        "low_dac": 6.485679755103463,
+        "low_resolving_power": 990.1557179806147,
+        "low_signal": 0.29242977770636025,
+        "points": "QM9SDb4dMmRAz1Y3Ph1vckDPWmK+DDSOQM9ejL4dMmRAz2K2vhGLp0DPZuG+EoQ3QM9rCz4Ld7VAz281vooQm0DPc2A+0Ca/QM93ir3JwwhAz3u0Pj3450DPf98+DOyoQM+ECb4ts+BAz4gzPa0TNkDPjF4+xPq7QM+QiD76aaBAz5SyPz11gkDPmN0/PB9uQM+dBz8LqKFAz6EyPt73eEDPpVw+8ieFQM+phj+IxGJAz62xP0dMe0DPsds/boo/QM+2BT+GdVVAz7owP0SBNUDPvlo/vQeZQM/ChD9rI1hAz8avP1+3sEDPytk/UvYPQM/PAz9b84hAz9MuP4GonEDP11g/TX6NQM/bgj9i/3NAz9+tP4zmE0DP49c/TndaQM/oAT8ruWFAz+wsPtGby0DP8FY/RN6BQM/0gT9bljpAz/irP2d+QEDP/NU/hy/6QNABAD+I0+9A0AUqP3enE0DQCVQ+9NN+QNANfz81r0ZA0BGpPh/dCUDQFdO976FQQNAZ/r4CfudA0B4ovmrebkDQIlI+gq51QNAmfT1vUqhA0Cqnuuriz0DQLtE+GRCVQNAy/D4tdftA0DcmveTzDEDQO1A9ktqIQNA/e74FaJpA0EOlvlX+vkDQR8++MJ2L",
+        "resolution": 383.0265009216007
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
